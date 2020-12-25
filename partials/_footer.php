@@ -1,0 +1,1 @@
+<div class="container">&copy;All rights reserved</div>
